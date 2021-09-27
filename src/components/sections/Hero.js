@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="http://www.lazrrecruiting.com/GetStarted">
+                  <Button tag="a" color="primary" wideMobile href="/GetStarted">
                     Get started
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="http://www.lazrrecruiting.com/AboutUs">
+                  <Button tag="a" color="dark" wideMobile href="/AboutUs">
                     Learn More
                   </Button>
                 </ButtonGroup>
